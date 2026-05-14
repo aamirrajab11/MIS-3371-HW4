@@ -291,14 +291,14 @@ td.outputdata {
     display: block !important;
     width: 260px !important;
     height: 130px !important;
-    margin-top: 18px !important;
+    margin-top: 50px !important;
     margin-right: 20px !important;
     overflow: hidden !important;
 }
 
 .iframe-container iframe {
     display: block !important;
-    width: 300% !important;
-    height: 150% !important;
+    width: 500% !important;
+    height: 200% !important;
     border: 4px solid rgb(144, 196, 198) !important;
 }
