@@ -252,6 +252,7 @@ td.outputdata {
     font-family: optima,san-serif;
     font-weight: normal;
     margin-right: 20px;
+    margin-top: 5px;
     margin-bottom: 8px;
 }
 
@@ -259,6 +260,7 @@ td.outputdata {
 .iframe-container {
     text-align: right;
     margin-right: 20px
+    Margin-top: 10px;
 }  
 
 .iframe-container iframe {
