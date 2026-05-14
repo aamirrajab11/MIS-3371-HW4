@@ -270,7 +270,9 @@ td.outputdata {
 .iframe-container iframe {
     width: 100%;
     height: 100%;
-    border: 4px solid rgb(144,196,198);
+    border: 5px solid rgb(96,167,170);
+    border-radius: 10px;
+    background-color: white;
 }
 
 /* Cookie welcome message styling */
