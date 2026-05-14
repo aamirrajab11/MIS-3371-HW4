@@ -31,6 +31,9 @@ body{
     min-height: 100vh; /*make sure page is height of the viewport*/
 
 }
+html, body {
+    overflow-x: hidden;
+}
 
 form{
     flex: grow 1;
