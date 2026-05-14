@@ -263,12 +263,20 @@ td.outputdata {
     text-align: right;
 }  
 
-.iframe-container iframe {
-    width: 220px;
-    height: 110px;
-    border: 4px solid rgb(144, 196, 198);
-    border-radiu: 5px
-} 
+.iframe-container {
+    width: 300px;
+    height: 150px;
+    margin:-left: auto;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+.iframe-contianer iframe {
+    width: 100%;
+    height: 100%;
+    border: 4px solid rgb(144,196,198);
+}
 
 /* Cookie welcome message styling */
 #welcome {
@@ -285,20 +293,4 @@ td.outputdata {
     text-align: center;
     font-family: "optima", sans-serif;
     font-weight: normal;
-}
-/* FINAL iframe fix */
-.iframe-container {
-    display: block !important;
-    width: 260px !important;
-    height: 130px !important;
-    margin-top: 50px !important;
-    margin-right: 20px !important;
-    overflow: hidden !important;
-}
-
-.iframe-container iframe {
-    display: block !important;
-    width: 500px !important;
-    height: 200px !important;
-    border: 4px solid rgb(144, 196, 198) !important;
 }
